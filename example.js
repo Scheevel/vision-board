@@ -8,7 +8,8 @@ var shiftingTiles = new ShiftingTiles({
     "images/5.jpg",
     "images/6.jpg",
     "images/7.jpg",
-    "images/8.jpg"
+    "images/8.jpg",
+    "images/KT_GenAI_UseCase.png"
   ],
   interval: 3000,
   columnCount: 4,
